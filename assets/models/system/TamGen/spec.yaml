@@ -16,6 +16,8 @@ tags:
   inference_supported_envs:
   license: mit
   author: Microsoft
+  industry: health-and-life-sciences
+  notes: "notes.md"
   hiddenlayerscanned: "true"
   SharedComputeCapacityEnabled: ""
   inference_compute_allow_list:
